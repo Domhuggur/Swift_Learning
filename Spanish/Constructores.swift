@@ -40,7 +40,7 @@ class Coleccion {
     //var arrayTareas:[Int] = [9,8,7,6,5,4,3,2,1,0]
     //var numeroTareas:Int = arrayTareas[]
     var tipo:String?
-    var cantidad:Int = 0
+    static var cantidad:Int = 0
     
     
     //funcion Init
